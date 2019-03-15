@@ -1,6 +1,5 @@
-# Set-B E-exam
-
-
+# Set-A E-exam
+God Bless in your A-exam
 
 ## Getting Started
 
@@ -17,10 +16,10 @@ Check the following:
 
 ### Repository
 
-clone the set-B repo
+clone the set-A repo
 
 ```
-https://github.com/TargetDev/setB.git
+https://github.com/TargetDev/setA.git
 ```
 
 ###Coding tests
@@ -35,5 +34,5 @@ Give an example
 ```
 ## Authors
 
-* **federico purisima,charissa arellano** - *Initial work* - [TargetDev-setB](https://github.com/TargetDev/setB.git)
+* **federico purisima,charissa arellano** - *Initial work* - [TargetDev-setB](https://github.com/TargetDev/setA.git)
 
