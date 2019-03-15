@@ -5,7 +5,6 @@ God Bless in your A-exam
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-
 ### Prerequisites
 Check the following:
 
@@ -35,4 +34,3 @@ Give an example
 ## Authors
 
 * **federico purisima,charissa arellano** - *Initial work* - [TargetDev-setB](https://github.com/TargetDev/setA.git)
-
